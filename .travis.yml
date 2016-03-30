@@ -1,5 +1,7 @@
+sudo: true
+
 install:
-  - pip install proselint
+  - sudo pip install proselint
 
 script: 
   - proselint my_prose.md
