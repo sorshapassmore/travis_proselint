@@ -1,4 +1,4 @@
-sudo: true
+sudo: require
 
 install:
   - sudo pip install proselint
