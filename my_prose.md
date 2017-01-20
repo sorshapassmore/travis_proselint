@@ -1,14 +1,20 @@
-I do not want this poem to go too deep.
-It's premature, and love's too far away.
-But there are things I feel the need to say
-Rather than more days of silence keep.
-I hope for you it's not too great a leap
-To hear me talking to you in this way.
-My fears sometimes my sentiments betray,
-Telling me to put my thoughts to sleep.
-Ever since we met I've thought of you
-As something more than just a passing friend.
-You seem so lovely, like a melody
-That haunts me with the wisp of something true.
-You haunt me still, and so I won't pretend:
-I tell you this that you might think of me.
+/* Guys! let's remember, fairytails are better when they are gruesome */
+
+Once upon a time there was a very nice family and they went on a lot of adventures.
+For instance, they went on an adventure with a boat. It was a very nice boat.  
+One day they were guided by a whale to a far away island.
+The whale preferred the sea over beach, but got stranded anyways.
+So the family was left in the island with no food and no shelter 
+The island had pure white beaches, covered in palm trees and beach chairs.
+There were some people there, so we went to meet them
+This land had the strangest inhabitants called Stnatibahni who prefered to use fruit to build their homes.
+Stnatibahni are weird pink elephant people.
+
+With big floppy ears.
+
+Their dream always was to be a great family of an island. 
+So they went back to their boat, and started to get all their weapons.
+
+
+Which were mostly large sharpened sticks, as they still hadn't figured out how to work with stone and metal.
+
