@@ -1,4 +1,4 @@
-sudo: require
+dist: trusty
 
 install:
   - sudo pip install proselint
