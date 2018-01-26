@@ -2,4 +2,4 @@ install:
   - sudo pip install proselint
 
 script: 
-  - proselint my_prose.md
+  - proselint README.md
